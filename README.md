@@ -8,7 +8,7 @@ In this tutorial, you learn how to classify images of cats and dogs by using tra
 * Fine-tuning a pre-trained model: To further improve performance, one might want to repurpose the top-level layers of the pre-trained models to the new dataset via fine-tuning. In this case, you tuned your weights such that your model learned high-level features specific to the dataset. This technique is usually recommended when the training dataset is large and very similar to the original dataset that the pre-trained model was trained on.
 
 # Dataset
- a dataset containing several thousand images of cats and dogs.
+ A dataset containing several thousand images of cats and dogs.
  
 # Acknowledgement
 https://www.tensorflow.org/tutorials/images/transfer_learning
